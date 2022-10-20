@@ -1,0 +1,3576 @@
+fileFormatVersion: 2
+guid: a71e08b5a95675c40a7f0d60f0dfe9e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -105443946550326105
+    second: 1316735818_2_www.nevseoboi.com.ua 1_0
+  - first:
+      213: -5253797803382504499
+    second: 1316735818_2_www.nevseoboi.com.ua 1_1
+  - first:
+      213: 6921088011389962481
+    second: 1316735818_2_www.nevseoboi.com.ua 1_2
+  - first:
+      213: -2945908465736802624
+    second: 1316735818_2_www.nevseoboi.com.ua 1_3
+  - first:
+      213: 7064451984811678905
+    second: 1316735818_2_www.nevseoboi.com.ua 1_4
+  - first:
+      213: -5747722124884429024
+    second: 1316735818_2_www.nevseoboi.com.ua 1_5
+  - first:
+      213: -474937035437412281
+    second: 1316735818_2_www.nevseoboi.com.ua 1_6
+  - first:
+      213: 4248718227770936762
+    second: 1316735818_2_www.nevseoboi.com.ua 1_7
+  - first:
+      213: 8711938821042567226
+    second: 1316735818_2_www.nevseoboi.com.ua 1_8
+  - first:
+      213: -7163586440369799017
+    second: 1316735818_2_www.nevseoboi.com.ua 1_9
+  - first:
+      213: -4526516706207461384
+    second: 1316735818_2_www.nevseoboi.com.ua 1_10
+  - first:
+      213: 638011544738415489
+    second: 1316735818_2_www.nevseoboi.com.ua 1_11
+  - first:
+      213: 1905153247017801758
+    second: 1316735818_2_www.nevseoboi.com.ua 1_12
+  - first:
+      213: 1038154575652035013
+    second: 1316735818_2_www.nevseoboi.com.ua 1_13
+  - first:
+      213: -4057386946496301693
+    second: 1316735818_2_www.nevseoboi.com.ua 1_14
+  - first:
+      213: -4335882742584016772
+    second: 1316735818_2_www.nevseoboi.com.ua 1_15
+  - first:
+      213: -7435987778544320274
+    second: 1316735818_2_www.nevseoboi.com.ua 1_16
+  - first:
+      213: 8079479780513198243
+    second: 1316735818_2_www.nevseoboi.com.ua 1_17
+  - first:
+      213: -88066118210765034
+    second: 1316735818_2_www.nevseoboi.com.ua 1_18
+  - first:
+      213: 242420121569698643
+    second: 1316735818_2_www.nevseoboi.com.ua 1_19
+  - first:
+      213: -1526655363482355280
+    second: 1316735818_2_www.nevseoboi.com.ua 1_20
+  - first:
+      213: 8794175995480058891
+    second: 1316735818_2_www.nevseoboi.com.ua 1_21
+  - first:
+      213: 1119395739477692834
+    second: 1316735818_2_www.nevseoboi.com.ua 1_22
+  - first:
+      213: 7917068826439225381
+    second: 1316735818_2_www.nevseoboi.com.ua 1_23
+  - first:
+      213: -3086969839145531762
+    second: 1316735818_2_www.nevseoboi.com.ua 1_24
+  - first:
+      213: 5435013633230655634
+    second: 1316735818_2_www.nevseoboi.com.ua 1_25
+  - first:
+      213: -6840105873439220012
+    second: 1316735818_2_www.nevseoboi.com.ua 1_26
+  - first:
+      213: -4666620419469159633
+    second: 1316735818_2_www.nevseoboi.com.ua 1_27
+  - first:
+      213: -8772026293550122917
+    second: 1316735818_2_www.nevseoboi.com.ua 1_28
+  - first:
+      213: 6417079869255070199
+    second: 1316735818_2_www.nevseoboi.com.ua 1_29
+  - first:
+      213: 6004180935939808480
+    second: 1316735818_2_www.nevseoboi.com.ua 1_30
+  - first:
+      213: -612841868232284104
+    second: 1316735818_2_www.nevseoboi.com.ua 1_31
+  - first:
+      213: -180920368837216206
+    second: 1316735818_2_www.nevseoboi.com.ua 1_32
+  - first:
+      213: 1706227459840087172
+    second: 1316735818_2_www.nevseoboi.com.ua 1_33
+  - first:
+      213: -589864106717719349
+    second: 1316735818_2_www.nevseoboi.com.ua 1_34
+  - first:
+      213: -2158392018476916213
+    second: 1316735818_2_www.nevseoboi.com.ua 1_35
+  - first:
+      213: -6379258949113644290
+    second: 1316735818_2_www.nevseoboi.com.ua 1_36
+  - first:
+      213: 3881896433054659457
+    second: 1316735818_2_www.nevseoboi.com.ua 1_37
+  - first:
+      213: -697973603833345454
+    second: 1316735818_2_www.nevseoboi.com.ua 1_38
+  - first:
+      213: -3189980451300236619
+    second: 1316735818_2_www.nevseoboi.com.ua 1_39
+  - first:
+      213: -1799868517284336152
+    second: 1316735818_2_www.nevseoboi.com.ua 1_40
+  - first:
+      213: 1485740242492881554
+    second: 1316735818_2_www.nevseoboi.com.ua 1_41
+  - first:
+      213: 4124327220169958500
+    second: 1316735818_2_www.nevseoboi.com.ua 1_42
+  - first:
+      213: 1492821514182525754
+    second: 1316735818_2_www.nevseoboi.com.ua 1_43
+  - first:
+      213: 621682703424299625
+    second: 1316735818_2_www.nevseoboi.com.ua 1_44
+  - first:
+      213: 1321177786632744437
+    second: 1316735818_2_www.nevseoboi.com.ua 1_45
+  - first:
+      213: -5049592678463913704
+    second: 1316735818_2_www.nevseoboi.com.ua 1_46
+  - first:
+      213: -8578980900849547666
+    second: 1316735818_2_www.nevseoboi.com.ua 1_47
+  - first:
+      213: 3998004837694496358
+    second: 1316735818_2_www.nevseoboi.com.ua 1_48
+  - first:
+      213: -9185562380142412252
+    second: 1316735818_2_www.nevseoboi.com.ua 1_49
+  - first:
+      213: 5625751051651498997
+    second: 1316735818_2_www.nevseoboi.com.ua 1_50
+  - first:
+      213: -4731551883826376562
+    second: 1316735818_2_www.nevseoboi.com.ua 1_51
+  - first:
+      213: 151593547247883520
+    second: 1316735818_2_www.nevseoboi.com.ua 1_52
+  - first:
+      213: 4421306944032727024
+    second: 1316735818_2_www.nevseoboi.com.ua 1_53
+  - first:
+      213: 8503088898053460861
+    second: 1316735818_2_www.nevseoboi.com.ua 1_54
+  - first:
+      213: -3259409837404796843
+    second: 1316735818_2_www.nevseoboi.com.ua 1_55
+  - first:
+      213: 6350754451385314404
+    second: 1316735818_2_www.nevseoboi.com.ua 1_56
+  - first:
+      213: -1123643725860107618
+    second: 1316735818_2_www.nevseoboi.com.ua 1_57
+  - first:
+      213: -2488707074378985466
+    second: 1316735818_2_www.nevseoboi.com.ua 1_58
+  - first:
+      213: -5348199808867803108
+    second: 1316735818_2_www.nevseoboi.com.ua 1_59
+  - first:
+      213: -297552756666474030
+    second: 1316735818_2_www.nevseoboi.com.ua 1_60
+  - first:
+      213: 376328455810511293
+    second: 1316735818_2_www.nevseoboi.com.ua 1_61
+  - first:
+      213: -5081881663290892823
+    second: 1316735818_2_www.nevseoboi.com.ua 1_62
+  - first:
+      213: 9169648057839592664
+    second: 1316735818_2_www.nevseoboi.com.ua 1_63
+  - first:
+      213: -1185263107324033496
+    second: 1316735818_2_www.nevseoboi.com.ua 1_64
+  - first:
+      213: 8205545885063866645
+    second: 1316735818_2_www.nevseoboi.com.ua 1_65
+  - first:
+      213: -839085123565732084
+    second: 1316735818_2_www.nevseoboi.com.ua 1_66
+  - first:
+      213: -6792401200989105901
+    second: 1316735818_2_www.nevseoboi.com.ua 1_67
+  - first:
+      213: 686993933412540083
+    second: 1316735818_2_www.nevseoboi.com.ua 1_68
+  - first:
+      213: 2633354709812435844
+    second: 1316735818_2_www.nevseoboi.com.ua 1_69
+  - first:
+      213: -7548728752589813067
+    second: 1316735818_2_www.nevseoboi.com.ua 1_70
+  - first:
+      213: 4751133114677844610
+    second: 1316735818_2_www.nevseoboi.com.ua 1_71
+  - first:
+      213: -2861456886244779093
+    second: 1316735818_2_www.nevseoboi.com.ua 1_72
+  - first:
+      213: 5024494541609800695
+    second: 1316735818_2_www.nevseoboi.com.ua 1_73
+  - first:
+      213: 8806086178876708540
+    second: 1316735818_2_www.nevseoboi.com.ua 1_74
+  - first:
+      213: 3517671092553520514
+    second: 1316735818_2_www.nevseoboi.com.ua 1_75
+  - first:
+      213: -1342790672436264373
+    second: 1316735818_2_www.nevseoboi.com.ua 1_76
+  - first:
+      213: 5172369804591057063
+    second: 1316735818_2_www.nevseoboi.com.ua 1_77
+  - first:
+      213: -4275537766031642412
+    second: 1316735818_2_www.nevseoboi.com.ua 1_78
+  - first:
+      213: 6084054490210388509
+    second: 1316735818_2_www.nevseoboi.com.ua 1_79
+  - first:
+      213: -3129422838999557974
+    second: 1316735818_2_www.nevseoboi.com.ua 1_80
+  - first:
+      213: -112321717844227926
+    second: 1316735818_2_www.nevseoboi.com.ua 1_81
+  - first:
+      213: 2622747439214019024
+    second: 1316735818_2_www.nevseoboi.com.ua 1_82
+  - first:
+      213: -2792442713917722702
+    second: 1316735818_2_www.nevseoboi.com.ua 1_83
+  - first:
+      213: 6534576612729065541
+    second: 1316735818_2_www.nevseoboi.com.ua 1_84
+  - first:
+      213: 923135813026607140
+    second: 1316735818_2_www.nevseoboi.com.ua 1_85
+  - first:
+      213: -5769485488888045498
+    second: 1316735818_2_www.nevseoboi.com.ua 1_86
+  - first:
+      213: -4705555676244349451
+    second: 1316735818_2_www.nevseoboi.com.ua 1_87
+  - first:
+      213: -2529090117613242749
+    second: 1316735818_2_www.nevseoboi.com.ua 1_88
+  - first:
+      213: -4302031104545558656
+    second: 1316735818_2_www.nevseoboi.com.ua 1_89
+  - first:
+      213: 7273180752453838478
+    second: 1316735818_2_www.nevseoboi.com.ua 1_90
+  - first:
+      213: 4957211820880470616
+    second: 1316735818_2_www.nevseoboi.com.ua 1_91
+  - first:
+      213: 2584784738343453201
+    second: 1316735818_2_www.nevseoboi.com.ua 1_92
+  - first:
+      213: 5978281957643878641
+    second: 1316735818_2_www.nevseoboi.com.ua 1_93
+  - first:
+      213: -7094335176472337625
+    second: 1316735818_2_www.nevseoboi.com.ua 1_94
+  - first:
+      213: -8470014674435976531
+    second: 1316735818_2_www.nevseoboi.com.ua 1_95
+  - first:
+      213: -5478671041834776136
+    second: 1316735818_2_www.nevseoboi.com.ua 1_96
+  - first:
+      213: -1904296425207079731
+    second: 1316735818_2_www.nevseoboi.com.ua 1_97
+  - first:
+      213: -8222881230089009933
+    second: 1316735818_2_www.nevseoboi.com.ua 1_98
+  - first:
+      213: -4025252170085996803
+    second: 1316735818_2_www.nevseoboi.com.ua 1_99
+  - first:
+      213: -1758971447476254617
+    second: 1316735818_2_www.nevseoboi.com.ua 1_100
+  - first:
+      213: 2208646079594055434
+    second: 1316735818_2_www.nevseoboi.com.ua 1_101
+  - first:
+      213: -4881546746527412116
+    second: 1316735818_2_www.nevseoboi.com.ua 1_102
+  - first:
+      213: 7142296658954819570
+    second: 1316735818_2_www.nevseoboi.com.ua 1_103
+  - first:
+      213: -1843635870761863233
+    second: 1316735818_2_www.nevseoboi.com.ua 1_104
+  - first:
+      213: -2479672333384469788
+    second: 1316735818_2_www.nevseoboi.com.ua 1_105
+  - first:
+      213: -2906802713312062722
+    second: 1316735818_2_www.nevseoboi.com.ua 1_106
+  - first:
+      213: 2672825238792144981
+    second: 1316735818_2_www.nevseoboi.com.ua 1_107
+  - first:
+      213: 1881230533454097127
+    second: 1316735818_2_www.nevseoboi.com.ua 1_108
+  - first:
+      213: 6218375746271261135
+    second: 1316735818_2_www.nevseoboi.com.ua 1_109
+  - first:
+      213: -8522056610984342382
+    second: 1316735818_2_www.nevseoboi.com.ua 1_110
+  - first:
+      213: -2813292115633916786
+    second: 1316735818_2_www.nevseoboi.com.ua 1_111
+  - first:
+      213: -2132528205748179502
+    second: 1316735818_2_www.nevseoboi.com.ua 1_112
+  - first:
+      213: -6082559299515990396
+    second: 1316735818_2_www.nevseoboi.com.ua 1_113
+  - first:
+      213: -2882858058216809281
+    second: 1316735818_2_www.nevseoboi.com.ua 1_114
+  - first:
+      213: 4738586005313499837
+    second: 1316735818_2_www.nevseoboi.com.ua 1_115
+  - first:
+      213: -7292279056658939739
+    second: 1316735818_2_www.nevseoboi.com.ua 1_116
+  - first:
+      213: -8559542220908834835
+    second: 1316735818_2_www.nevseoboi.com.ua 1_117
+  - first:
+      213: 3914849075820638330
+    second: 1316735818_2_www.nevseoboi.com.ua 1_118
+  - first:
+      213: -3931164640704291216
+    second: 1316735818_2_www.nevseoboi.com.ua 1_119
+  - first:
+      213: -8822555695513746220
+    second: 1316735818_2_www.nevseoboi.com.ua 1_120
+  - first:
+      213: 9111649128322908152
+    second: 1316735818_2_www.nevseoboi.com.ua 1_121
+  - first:
+      213: 5651738248062276111
+    second: 1316735818_2_www.nevseoboi.com.ua 1_122
+  - first:
+      213: -7241949768632707531
+    second: 1316735818_2_www.nevseoboi.com.ua 1_123
+  - first:
+      213: -5179638766345250368
+    second: 1316735818_2_www.nevseoboi.com.ua 1_124
+  - first:
+      213: -3240774761150845406
+    second: 1316735818_2_www.nevseoboi.com.ua 1_125
+  - first:
+      213: 137821670029210347
+    second: 1316735818_2_www.nevseoboi.com.ua 1_126
+  - first:
+      213: 2911087881960798179
+    second: 1316735818_2_www.nevseoboi.com.ua 1_127
+  - first:
+      213: -1562889729139400602
+    second: 1316735818_2_www.nevseoboi.com.ua 1_128
+  - first:
+      213: 5207925436693686186
+    second: 1316735818_2_www.nevseoboi.com.ua 1_129
+  - first:
+      213: 8240403403561479884
+    second: 1316735818_2_www.nevseoboi.com.ua 1_130
+  - first:
+      213: -1622084870469471681
+    second: 1316735818_2_www.nevseoboi.com.ua 1_131
+  - first:
+      213: -4125549137548915744
+    second: 1316735818_2_www.nevseoboi.com.ua 1_132
+  - first:
+      213: 5021302160449256849
+    second: 1316735818_2_www.nevseoboi.com.ua 1_133
+  - first:
+      213: 1714795618297613611
+    second: 1316735818_2_www.nevseoboi.com.ua 1_134
+  - first:
+      213: -5445706918396372264
+    second: 1316735818_2_www.nevseoboi.com.ua 1_135
+  - first:
+      213: -2054650985067248327
+    second: 1316735818_2_www.nevseoboi.com.ua 1_136
+  - first:
+      213: -5528917350187629635
+    second: 1316735818_2_www.nevseoboi.com.ua 1_137
+  - first:
+      213: -8300484715617975076
+    second: 1316735818_2_www.nevseoboi.com.ua 1_138
+  - first:
+      213: -4299221031230975683
+    second: 1316735818_2_www.nevseoboi.com.ua 1_139
+  - first:
+      213: 5269888169256422085
+    second: 1316735818_2_www.nevseoboi.com.ua 1_140
+  - first:
+      213: 6573048012948039244
+    second: 1316735818_2_www.nevseoboi.com.ua 1_141
+  - first:
+      213: 3583328128493283405
+    second: 1316735818_2_www.nevseoboi.com.ua 1_142
+  - first:
+      213: 370751846191544457
+    second: 1316735818_2_www.nevseoboi.com.ua 1_143
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac072e0a43698ef0800000000000000
+      internalID: -105443946550326105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 960
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc388afcbb2c617b0800000000000000
+      internalID: -5253797803382504499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 960
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f80d1a70e4ac0060800000000000000
+      internalID: 6921088011389962481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 960
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce11f6cbd70e17d0800000000000000
+      internalID: -2945908465736802624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 960
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcd08fa6a9f90260800000000000000
+      internalID: 7064451984811678905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_5
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 960
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0273c9e1e2dfb30b0800000000000000
+      internalID: -5747722124884429024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_6
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 960
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7407318584fa869f0800000000000000
+      internalID: -474937035437412281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_7
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 960
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd830da7ba76fa30800000000000000
+      internalID: 4248718227770936762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_8
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a387d2d233607e870800000000000000
+      internalID: 8711938821042567226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_9
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 960
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79004f73614d59c90800000000000000
+      internalID: -7163586440369799017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_10
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 960
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff02a8c9059e21c0800000000000000
+      internalID: -4526516706207461384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_11
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 960
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1834bbe9e1caad800800000000000000
+      internalID: 638011544738415489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_12
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 960
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e189d23c8c6707a10800000000000000
+      internalID: 1905153247017801758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_13
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 960
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c99faf0614486e00800000000000000
+      internalID: 1038154575652035013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_14
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 960
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385f7c1b11441b7c0800000000000000
+      internalID: -4057386946496301693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_15
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 960
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70888c3e99d3d3c0800000000000000
+      internalID: -4335882742584016772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee048b153801ec890800000000000000
+      internalID: -7435987778544320274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_17
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 840
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0b07fad04102070800000000000000
+      internalID: 8079479780513198243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_18
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 840
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fbc43055027cef0800000000000000
+      internalID: -88066118210765034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_19
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 840
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353a190f0df3d5300800000000000000
+      internalID: 242420121569698643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_20
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 840
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b97035190b30dae0800000000000000
+      internalID: -1526655363482355280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_21
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 840
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c2bde69703b0a70800000000000000
+      internalID: 8794175995480058891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_22
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 840
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a157a68e74e88f00800000000000000
+      internalID: 1119395739477692834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_23
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 840
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5209a36b6241fdd60800000000000000
+      internalID: 7917068826439225381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_24
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 840
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86c2696941e825d0800000000000000
+      internalID: -3086969839145531762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_25
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 840
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2905e1e7a1c0d6b40800000000000000
+      internalID: 5435013633230655634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_26
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 840
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de9793d2ff0311a0800000000000000
+      internalID: -6840105873439220012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_27
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 840
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23d4fb0475dc3fb0800000000000000
+      internalID: -4666620419469159633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_28
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 840
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58fe8cef80834680800000000000000
+      internalID: -8772026293550122917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_29
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 840
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f13246542c0e0950800000000000000
+      internalID: 6417079869255070199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_30
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 840
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec5dddefb2235350800000000000000
+      internalID: 6004180935939808480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_31
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 840
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838278c519fbe77f0800000000000000
+      internalID: -612841868232284104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23833d212ed3d7df0800000000000000
+      internalID: -180920368837216206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_33
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48419c1b5dcbda710800000000000000
+      internalID: 1706227459840087172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_34
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4565d58b160d7f0800000000000000
+      internalID: -589864106717719349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_35
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0225a415e9db02e0800000000000000
+      internalID: -2158392018476916213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa79d7d8c15877a0800000000000000
+      internalID: -6379258949113644290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_37
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183341b1d344fd530800000000000000
+      internalID: 3881896433054659457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_38
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a0ae094bc4056f0800000000000000
+      internalID: -697973603833345454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_39
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b22fc74ea9eab3d0800000000000000
+      internalID: -3189980451300236619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_40
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edabd0ae159507e0800000000000000
+      internalID: -1799868517284336152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_41
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a7a46f0e86e9410800000000000000
+      internalID: 1485740242492881554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_42
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46464bf41cd8c3930800000000000000
+      internalID: 4124327220169958500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_43
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3309e1024197b410800000000000000
+      internalID: 1492821514182525754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_44
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9622c9cff19a0a800800000000000000
+      internalID: 621682703424299625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_45
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fda1617234c55210800000000000000
+      internalID: 1321177786632744437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_46
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811cebb763e3ce9b0800000000000000
+      internalID: -5049592678463913704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_47
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e668006f25651f880800000000000000
+      internalID: -8578980900849547666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ed211b734cb7730800000000000000
+      internalID: 3998004837694496358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_49
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e7b65bea3568080800000000000000
+      internalID: -9185562380142412252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_50
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3c77466cea21e40800000000000000
+      internalID: 5625751051651498997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_51
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80d23861a6265eb0800000000000000
+      internalID: -4731551883826376562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_52
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00593fd27819a1200800000000000000
+      internalID: 151593547247883520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_53
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffd9029d33ab5d30800000000000000
+      internalID: 4421306944032727024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_54
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d735b0e2d4a010670800000000000000
+      internalID: 8503088898053460861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_55
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558c210a50044c2d0800000000000000
+      internalID: -3259409837404796843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_56
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c6d8a9689622850800000000000000
+      internalID: 6350754451385314404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_57
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a03021cf30860f0800000000000000
+      internalID: -1123643725860107618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_58
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60093a10a16567dd0800000000000000
+      internalID: -2488707074378985466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_59
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c106f9c1c9067c5b0800000000000000
+      internalID: -5348199808867803108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_60
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1e4f42851eedbf0800000000000000
+      internalID: -297552756666474030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_61
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1f4779cbcf83500800000000000000
+      internalID: 376328455810511293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_62
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed99fc5d878979b0800000000000000
+      internalID: -5081881663290892823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_63
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d421e26352214f70800000000000000
+      internalID: 9169648057839592664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8264392db791d8fe0800000000000000
+      internalID: -1185263107324033496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_65
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5196663f184ffd170800000000000000
+      internalID: 8205545885063866645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_66
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fbc899688fa54f0800000000000000
+      internalID: -839085123565732084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_67
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3119b1b681b8cb1a0800000000000000
+      internalID: -6792401200989105901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_68
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be17e3b751b88900800000000000000
+      internalID: 686993933412540083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_69
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bd8fd082e8b8420800000000000000
+      internalID: 2633354709812435844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_70
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba4b14c1378d3790800000000000000
+      internalID: -7548728752589813067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_71
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ad7fc256a6fe140800000000000000
+      internalID: 4751133114677844610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_72
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babd8436f101a48d0800000000000000
+      internalID: -2861456886244779093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_73
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f39a882a279ab540800000000000000
+      internalID: 5024494541609800695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_74
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb65c6919b0853a70800000000000000
+      internalID: 8806086178876708540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_75
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2851054a83741d030800000000000000
+      internalID: 3517671092553520514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_76
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b428ab17ff27d5de0800000000000000
+      internalID: -1342790672436264373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_77
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a84b91dee2f7c740800000000000000
+      internalID: 5172369804591057063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_78
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0bae7fd0d3aa4c0800000000000000
+      internalID: -4275537766031642412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_79
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a4c1bf257ee6450800000000000000
+      internalID: 6084054490210388509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8df61228e0294d0800000000000000
+      internalID: -3129422838999557974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_81
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa845532ef3f07ef0800000000000000
+      internalID: -112321717844227926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_82
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1cae966eed56420800000000000000
+      internalID: 2622747439214019024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_83
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf6e4d85204f39d0800000000000000
+      internalID: -2792442713917722702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_84
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5409a4fbeca7faa50800000000000000
+      internalID: 6534576612729065541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_85
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42074e68123afcc00800000000000000
+      internalID: 923135813026607140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_86
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640ae02148baeefa0800000000000000
+      internalID: -5769485488888045498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_87
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fde1a62b0282beb0800000000000000
+      internalID: -4705555676244349451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_88
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38636be00fdd6ecd0800000000000000
+      internalID: -2529090117613242749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_89
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f61e8e08d1c44c0800000000000000
+      internalID: -4302031104545558656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_90
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8628310c578fe460800000000000000
+      internalID: 7273180752453838478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_91
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852a2fbf2ed8bc440800000000000000
+      internalID: 4957211820880470616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_92
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11200d556000fd320800000000000000
+      internalID: 2584784738343453201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_93
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f08d7424cf17f250800000000000000
+      internalID: 5978281957643878641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_94
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723eec09ebbdb8d90800000000000000
+      internalID: -7094335176472337625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_95
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2d5e79786747a80800000000000000
+      internalID: -8470014674435976531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b90836f6b9d7f3b0800000000000000
+      internalID: -5478671041834776136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_97
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc5c7c9d749295e0800000000000000
+      internalID: -1904296425207079731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_98
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f44152861572ed80800000000000000
+      internalID: -8222881230089009933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_99
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df667ae5a7e6328c0800000000000000
+      internalID: -4025252170085996803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_100
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7688f17b9c0e697e0800000000000000
+      internalID: -1758971447476254617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_101
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0743c058efa6ae10800000000000000
+      internalID: 2208646079594055434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_102
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6015caf813414cb0800000000000000
+      internalID: -4881546746527412116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_103
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7167548f88e1360800000000000000
+      internalID: 7142296658954819570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_104
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7321c81f61a66e0800000000000000
+      internalID: -1843635870761863233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_105
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e23141962f669dd0800000000000000
+      internalID: -2479672333384469788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_106
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef294e84556f8a7d0800000000000000
+      internalID: -2906802713312062722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_107
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55887e8b468c71520800000000000000
+      internalID: 2672825238792144981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_108
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea6627f3397b1a10800000000000000
+      internalID: 1881230533454097127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_109
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1376c7bcb1c4650800000000000000
+      internalID: 6218375746271261135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_110
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c42820aa29bb980800000000000000
+      internalID: -8522056610984342382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_111
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84bb3ee9bd25f8d0800000000000000
+      internalID: -2813292115633916786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dde0ee35ecb762e0800000000000000
+      internalID: -2132528205748179502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_113
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48eb91b3b88669ba0800000000000000
+      internalID: -6082559299515990396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_114
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc5d1ebed70ef7d0800000000000000
+      internalID: -2882858058216809281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_115
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db23950add6d2c140800000000000000
+      internalID: 4738586005313499837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_116
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0c2d885de9cca90800000000000000
+      internalID: -7292279056658939739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_117
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def45c253b5663980800000000000000
+      internalID: -8559542220908834835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_118
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a703e812e76545630800000000000000
+      internalID: 3914849075820638330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_119
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e9e356692b179c0800000000000000
+      internalID: -3931164640704291216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_120
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4cdcdb65cff8580800000000000000
+      internalID: -8822555695513746220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_121
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff3fab4b94137e70800000000000000
+      internalID: 9111649128322908152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_122
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f029d3f0ef10f6e40800000000000000
+      internalID: 5651738248062276111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_123
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536dc6f0e0d6f7b90800000000000000
+      internalID: -7241949768632707531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_124
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c916232cf93e18b0800000000000000
+      internalID: -5179638766345250368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_125
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e6d8c66847603d0800000000000000
+      internalID: -3240774761150845406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_126
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be231742414a9e100800000000000000
+      internalID: 137821670029210347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_127
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7b73a4103466820800000000000000
+      internalID: 2911087881960798179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6602a8762108f4ae0800000000000000
+      internalID: -1562889729139400602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_129
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa729d68794464840800000000000000
+      internalID: 5207925436693686186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_130
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccea33b6c3bcb5270800000000000000
+      internalID: 8240403403561479884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_131
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32b12c87623d79e0800000000000000
+      internalID: -1622084870469471681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_132
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb4af0eaea1fb6c0800000000000000
+      internalID: -4125549137548915744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_133
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19dba7ff5bf3fa540800000000000000
+      internalID: 5021302160449256849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_134
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d860b878d2cc710800000000000000
+      internalID: 1714795618297613611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_135
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dad81a0966fc64b0800000000000000
+      internalID: -5445706918396372264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_136
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93509a9a0d96c73e0800000000000000
+      internalID: -2054650985067248327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_137
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db38295a6f65543b0800000000000000
+      internalID: -5528917350187629635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_138
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd408060121cecc80800000000000000
+      internalID: -8300484715617975076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_139
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31d69610491654c0800000000000000
+      internalID: -4299221031230975683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_140
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca009e6e57622940800000000000000
+      internalID: 5269888169256422085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_141
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46ea5f9758283b50800000000000000
+      internalID: 6573048012948039244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_142
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48e18492f98ab130800000000000000
+      internalID: 3583328128493283405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1316735818_2_www.nevseoboi.com.ua 1_143
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988311cf6dc252500800000000000000
+      internalID: 370751846191544457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
